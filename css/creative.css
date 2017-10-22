@@ -359,8 +359,8 @@ header.masthead .header-content .header-content-inner p {
         -moz-transform: rotate(-3deg);
         -ms-transform: rotate(-3deg);
         -o-transform: rotate(-3deg);
-        padding-right: 15px;
-        padding-left: 15px;
+        /*padding-right: 0px;*/
+        padding-left: 0px;
     }
     header.masthead .header-content .header-content-inner p {
         font-size: 18px;
