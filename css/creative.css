@@ -351,7 +351,7 @@ header.masthead .header-content .header-content-inner p {
     header.masthead .header-content .header-content-inner h1 {
         font-size: 80px;
         font-family: 'Permanent Marker', cursive;
-        float: right;
+        /*float: right;*/
         position: relative;
         top: -1.3em;
         text-indent: 220px;
