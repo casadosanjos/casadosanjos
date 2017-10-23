@@ -42,6 +42,7 @@
 
   .imagem-produto {
     border-radius: 10px;
+    max-width: 100%;
   }
 
  /* #mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:hover {
