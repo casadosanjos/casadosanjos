@@ -250,7 +250,8 @@ hr.style14{
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; 
+  background-size: cover;
+  margin-left: 360px; 
 }  
 
 @media(max-width: 500px)
