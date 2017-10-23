@@ -17,8 +17,9 @@
 
   .my-cart-btn{
   	margin: 10px;
-  	width: 90px;
-  	height: 40px;
+  	width: 130px;
+    height: 45px;
+    box-sizing: border-box;
   }
   .cart_txt{
   	color: red;
